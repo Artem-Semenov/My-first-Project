@@ -14,37 +14,83 @@ body {font-family: 'Montserrat', sans-serif;}
    background-color: #FFFFFF;
 }
 /* about styles */
-.about {background-color: yellow}
+.about {}
 
 
 /* project syles */
 .projects {
-   color: rgb(49, 49, 138);
-   margin-top: 20px;
-   margin-bottom: 30px;
-   margin-left: 60px;
-   margin-right: 90px;
-   /*margin: 200px 90px 300px 60px; 
-   margin: 50px
-   margin: 100px 50px*/
+   
 }
 
 
 /* work styles  */
-.work {background: chocolate;
-padding-top: 10px;
-padding-bottom: 20px;
-padding-left: 20px;
-padding-right: 40px;
+.work {
 }
 
 /* education styles*/
 
-.education {background-color: palevioletred;}
+.education {
+   ;}
 
 
 /* sidebar styles  */
 
 .sidebar {
   background-color: #1E2939; 
+  padding-top: 40px;
+  width: 370 px;
+  
+}
+
+.photo {
+   width: 370 px;
+   margin-bottom: 50px;
+}
+
+.contacts, .tech-skills, .soft-skills {
+   margin-left: 40px;
+}
+.contacts {
+   margin-bottom: 50px;
+}
+
+.sidebar-title {
+   color: #FFFFFF;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 22px;
+   line-height: 27px;
+   margin-bottom: 10px;
+}
+
+.contact-type {
+   color: #FFFFFF;
+   font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+margin-right: 15px;
+}
+.contact-link {
+   color: #575F6B;
+   font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+
+.tech-skills-list {
+   color: #FFFFFF;
+   padding: 0;
+   margin-left: 20px;
+}
+
+.tech-skills-item {color: #FB6D3A;}
+
+.tech-skills-text {
+   color: #FFFFFF;
+   font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
 }
