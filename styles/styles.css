@@ -1,0 +1,50 @@
+body {font-family: 'Montserrat', sans-serif;}
+
+/* main styles  */
+.main {
+   display: flex;
+   flex-direction: row-reverse;
+   background-color: #F5F7FA, 100%;
+   width: 1200px;
+   margin: 0 auto;
+}
+
+
+.maincontent {
+   background-color: #FFFFFF;
+}
+/* about styles */
+.about {background-color: yellow}
+
+
+/* project syles */
+.projects {
+   color: rgb(49, 49, 138);
+   margin-top: 20px;
+   margin-bottom: 30px;
+   margin-left: 60px;
+   margin-right: 90px;
+   /*margin: 200px 90px 300px 60px; 
+   margin: 50px
+   margin: 100px 50px*/
+}
+
+
+/* work styles  */
+.work {background: chocolate;
+padding-top: 10px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 40px;
+}
+
+/* education styles*/
+
+.education {background-color: palevioletred;}
+
+
+/* sidebar styles  */
+
+.sidebar {
+  background-color: #1E2939; 
+}
